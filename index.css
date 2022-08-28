@@ -1,0 +1,23 @@
+#main-bf {
+    border-radius: 25px;
+    border: 2px solid #0000FF;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+#main-ok {
+    border-radius: 25px;
+    border: 2px solid #00FF00;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
+
+#main-er {
+    border-radius: 25px;
+    border: 2px solid #FF0000;
+    padding: 20px;
+    width: 200px;
+    height: 150px;
+}
